@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Sep 21 05:04:43 2018
 
-@author: My Life
+@author: Koti Vellanki
 """
 
 import sys
